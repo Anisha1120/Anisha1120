@@ -1,3 +1,4 @@
+![logo](https://github.com/Anisha1120/Anisha1120/blob/main/github%20banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Anisha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
